@@ -1,6 +1,5 @@
 import request from "supertest";
 import { app } from "../app"
-
 import createConnection from '../database'
 
 describe("users", async () => {
