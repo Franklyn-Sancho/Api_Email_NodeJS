@@ -1,6 +1,6 @@
 <h1 align="center"> NPS API </h1>
 
-Antes de tudo precisamos explicar o que é o NPS, abreviação de net promoter score. é o calculo de satisfação do cliente, neste contexto, podemos relembrar aqueles emails a qual as empresas nos pergunta o quão satisfeitos estamos com os serviços prestados por ela. Por exemplo: "Vote 0 se estiver totalmente instisfeito e 10 se estiver totalmente satisfeito. Esta API construída em nodeJS e TypeScript faz o calculo do NPS via Email.
+Antes de tudo precisamos explicar o que é o NPS, abreviação de net promoter score. é o calculo de satisfação do cliente, neste contexto, podemos relembrar aqueles emails a qual as empresas nos perguntam o quão satisfeitos estamos com os serviços prestados. Por exemplo: "Vote 0 se estiver totalmente instisfeito e 10 se estiver totalmente satisfeito." Esta API construída em nodeJS e TypeScript faz o calculo do NPS via Email.
 
 Para os testes, além de executar o servidor, também será necessário o uso do POSTMAN ou INSONMIA para chamar o get, post, delete e patch, caso necessário. Encorajo o uso do INSONMIA por ser Open Source. 
 
