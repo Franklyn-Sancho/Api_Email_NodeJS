@@ -4,7 +4,7 @@ Antes de tudo precisamos explicar o que é o NPS, abreviação de net promoter s
 
 Para os testes, além de executar o servidor, também será necessário o uso do POSTMAN ou INSONMIA para chamar o get, post, delete e patch, caso necessário. Encorajo o uso do INSONMIA por ser Open Source. 
 
-### Tecnologias usadas na construção dessa API
+### Tecnologias usadas na construção dessa API 🛠️
 
 ![Badge](https://img.shields.io/static/v1?label=Node.js&message=Built&color=green&style=for-the-badge&logo=node.js)
 ![Badge](https://img.shields.io/static/v1?label=express.js&message=Library&color=black&style=for-the-badge&logo=Express)
@@ -14,6 +14,8 @@ Para os testes, além de executar o servidor, também será necessário o uso do
 ![Badge](https://img.shields.io/static/v1?label=Yup&message=Framework&color=red&style=for-the-badge&logo=yup)
 ![Badge](https://img.shields.io/static/v1?label=Jest&message=Tester&color=orange&style=for-the-badge&logo=jest)
 ![Badge](https://img.shields.io/static/v1?label=supertest&message=tester&color=blue&style=for-the-badge&logo=SuperTest)
+
+- README EM CONSTRUÇÃO :warning:
 
 
 
